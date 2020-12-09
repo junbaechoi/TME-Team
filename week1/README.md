@@ -19,4 +19,15 @@ Tian Yi Fu, Yuxuan Hou, Tien-Wei Ho, Junbae(JB) Choi
 ### Does your project contain a dataset? How is it structured and used in your app?
 - We are gonna collect photos related to some gestures. And then we will get some codes for detecting gestures from Teachable Machine by Google. And then we will make our own code to offer visual effect functions using p5 on the screen.
 
-###### Heading 6
+
+## Our project plan
+
+### What tools, programming languages, hardware etc. do you need?
+- JavaScript, P5, Teachable Machine by Google, Html, Github, Laptop or Desktop camera.
+
+### What technical challenges do you expect?
+- We will face technical challenges like creating proper code for our visual effect. And it will be challenging to combine with machine learning code with our visual effect coding. There also may be some details we miss to make the effects look much more professional.
+
+### What help do you need? (teachers, classmates or the internet)
+- We think the teachers can help us to find or create proper coding for the visual effects we want.
+
