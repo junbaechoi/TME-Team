@@ -17,4 +17,4 @@ Coding for Visual Effect 4 — Yuxuan Hou
 ##
 ## Sketch for the first prototype
 
-![](week2/images/1.jpg)
+![](week2/images/2.jpg)
