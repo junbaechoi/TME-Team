@@ -2,7 +2,7 @@
 The Most Efficient Team: 
 Tian Yi Fu, Yuxuan Hou, Tien-Wei Ho, Junbae Choi
  
-
+#
 # Proposal
 
 ## Concepting and Discovery
