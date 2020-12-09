@@ -19,7 +19,7 @@ Tian Yi Fu, Yuxuan Hou, Tien-Wei Ho, Junbae Choi
 ### Does your project contain a dataset? How is it structured and used in your app?
 - We are gonna collect photos related to some gestures. And then we will get some codes for detecting gestures from Teachable Machine by Google. And then we will make our own code to offer visual effect functions using p5 on the screen.
 
-
+##
 ## Our project plan
 
 ### What tools, programming languages, hardware etc. do you need?
