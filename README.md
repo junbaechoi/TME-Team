@@ -1,2 +1,2 @@
 # TME-Team
-The Most Efficient Team for final project
+The Most Efficient Team for the final project
