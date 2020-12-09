@@ -26,6 +26,6 @@ Coding for Visual Effect 4 — Yuxuan Hou
 ##
 ## Process
 
-![](images/6.jpg)
-![](images/7.jpg)
-![](images/8.jpg)
+![](images/6.png)
+![](images/7.png)
+![](images/8.png)
