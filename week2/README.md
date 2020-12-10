@@ -34,7 +34,7 @@ Coding for Visual Effect 4 — Yuxuan Hou
 ## Sketches for the final product
 
 ### Saying words gesture
-![](images/j1.jpg)
+![](images/jb1.jpg)
 
 ###
 ### Ok gesture
