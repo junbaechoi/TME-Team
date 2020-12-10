@@ -29,3 +29,10 @@ Coding for Visual Effect 4 — Yuxuan Hou
 ![](images/6.png)
 ![](images/7.png)
 ![](images/8.png)
+
+##
+## Sketches for the final product
+
+![](images/y1.jpg)
+![](images/y2.jpg)
+![](images/y3.jpg)
