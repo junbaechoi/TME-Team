@@ -33,6 +33,18 @@ Coding for Visual Effect 4 — Yuxuan Hou
 ##
 ## Sketches for the final product
 
+### Saying words gesture
+![](images/j1.jpg)
+
+###
+### Ok gesture
+
+![](images/tw1.jpg)
+![](images/tw2.jpg)
+![](images/tw3.jpg)
+
+
+###
 ### Raise your hand gesture
 ![](images/y1.jpg)
 ![](images/y2.jpg)
