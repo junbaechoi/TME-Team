@@ -33,6 +33,7 @@ Coding for Visual Effect 4 — Yuxuan Hou
 ##
 ## Sketches for the final product
 
+### Raise your hand gesture
 ![](images/y1.jpg)
 ![](images/y2.jpg)
 ![](images/y3.jpg)
