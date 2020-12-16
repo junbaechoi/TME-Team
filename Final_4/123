@@ -1,0 +1,19 @@
+  } else if (label == "ok"){
+    fill(0, 255, 0);
+    textSize(80);
+    textAlign(CENTER);
+    text("OK!", width / 2, 90);
+  } else if (label == "no"){
+    fill(255, 0, 0);
+    textSize(80);
+    textAlign(CENTER);
+    text("NO...", width / 2 + 20, 90);
+  } else if (label == "raise"){
+    fill(255, 255, 0);
+    textSize(60);
+    textAlign(CENTER);
+    textStyle(BOLD);
+    text("I have something to say", width / 2, 70);
+    console.log(label);
+    gif_createImg.position(150, 380);
+  } 
